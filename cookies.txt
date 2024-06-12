@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+my.its.ac.id	TRUE	/	FALSE	1999999999	TVMSESSID	1i6n7at7psf08dil6dq1hascbkkf9ai1capek6e4ok1d3uhefdanna1si9pfcaii
+my.its.ac.id	TRUE	/	FALSE	1999999999	KEBUN	w42
+my.its.ac.id	TRUE	/	FALSE	1999999999	locale	S6ez7sCmN%2B1wESqap%2FpIVCh%2FRFNh
+

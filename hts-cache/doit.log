@@ -1,0 +1,8 @@
+https://my.its.ac.id/signin?response_type=code&redirect_uri=https%3A%2F%2Fportal.its.ac.id%2Fapi%2Fauth&client_id=289EA13D-8A8E-4F80-AE3D-6DADCD97F59D&nonce=da5850b927937a90433b0eff84b79445&state=ccffe13f11b353a432f554f0d3d9771d&scope=group+resource+role+openid -o ./
+File generated automatically on Tue, 30 Apr 2024 14:37:46, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

@@ -1,0 +1,691 @@
+# yersinia v0.8.2 started in kali on Wed May 22 22:10:56 2024
+
+Network Interface wlan0
+
+ wlan0 iflinkname EN10MB
+ wlan0 iflinkdesc Ethernet
+ wlan0 MAC = 1413.338b.9c2b
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.877a.244c
+Network Interface br-a847f0ea33f9
+
+ br-a847f0ea33f9 iflinkname EN10MB
+ br-a847f0ea33f9 iflinkdesc Ethernet
+ br-a847f0ea33f9 MAC = 0242.5b5d.e706
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: Empty address ''
+Network Interface vboxnet0
+pcap_open_live failed: vboxnet0: That device is not up
+Network Interface vboxnet1
+pcap_open_live failed: vboxnet1: That device is not up
+ g00dbye function called from 4B8B6800
+
+ th_uptime thread = 4B0B46C0
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(1267422912)...
+
+ thread_destroy 4B8B6800 destroying 4B8B56C0...
+ thread_destroy 4B8B6800 after PTHREAD_JOIN 4B8B56C0...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Wed May 22 22:10:57 2024
+
+# yersinia v0.8.2 started in kali on Wed May 22 22:12:57 2024
+
+Network Interface wlan0
+
+ wlan0 iflinkname EN10MB
+ wlan0 iflinkdesc Ethernet
+ wlan0 MAC = 1413.338b.9c2b
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.877a.244c
+Network Interface br-a847f0ea33f9
+
+ br-a847f0ea33f9 iflinkname EN10MB
+ br-a847f0ea33f9 iflinkdesc Ethernet
+ br-a847f0ea33f9 MAC = 0242.5b5d.e706
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: Empty address ''
+Network Interface vboxnet0
+pcap_open_live failed: vboxnet0: That device is not up
+Network Interface vboxnet1
+pcap_open_live failed: vboxnet1: That device is not up
+ g00dbye function called from E9D02800
+
+ th_uptime thread = E95006C0
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(-372238656)...
+
+ thread_destroy E9D02800 destroying E9D016C0...
+ thread_destroy E9D02800 after PTHREAD_JOIN E9D016C0...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Wed May 22 22:12:58 2024
+
+# yersinia v0.8.2 started in kali on Wed May 22 22:34:33 2024
+
+Network Interface wlan0
+
+ wlan0 iflinkname EN10MB
+ wlan0 iflinkdesc Ethernet
+ wlan0 MAC = 1413.338b.9c2b
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.877a.244c
+Network Interface br-a847f0ea33f9
+
+ br-a847f0ea33f9 iflinkname EN10MB
+ br-a847f0ea33f9 iflinkdesc Ethernet
+ br-a847f0ea33f9 MAC = 0242.5b5d.e706
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: Empty address ''
+Network Interface vboxnet0
+pcap_open_live failed: vboxnet0: That device is not up
+Network Interface vboxnet1
+pcap_open_live failed: vboxnet1: That device is not up
+
+ th_uptime thread = B23A96C0
+
+ ncurses_gui_th = -1313175872
+ Notification: Warning: interface wlan0 selected as the default one
+ attack_launch: B1BA86C0 Attack thread B11A76C0 is born!!
+
+ ncurses_gui_th_exit start...
+
+ thread_destroy B1BA86C0 destroying B11A76C0...
+ attack_th_exit -> attack_th.stop=1   attack_th.id=B11A76C0....
+ attack_th_exit: B11A76C0 finished
+ thread_destroy B1BA86C0 after PTHREAD_JOIN B11A76C0...
+ ncurses_gui_th_exit finish...
+ g00dbye function called from B2BAB800
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(-1296390464)...
+
+ thread_destroy B2BAB800 destroying B2BAA6C0...
+ thread_destroy B2BAB800 after PTHREAD_JOIN B2BAA6C0...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Wed May 22 22:35:42 2024
+
+# yersinia v0.8.2 started in kali on Wed May 22 22:38:57 2024
+
+Network Interface wlan0
+
+ wlan0 iflinkname EN10MB
+ wlan0 iflinkdesc Ethernet
+ wlan0 MAC = 1413.338b.9c2b
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.877a.244c
+Network Interface br-a847f0ea33f9
+
+ br-a847f0ea33f9 iflinkname EN10MB
+ br-a847f0ea33f9 iflinkdesc Ethernet
+ br-a847f0ea33f9 MAC = 0242.5b5d.e706
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: Empty address ''
+Network Interface vboxnet0
+pcap_open_live failed: vboxnet0: That device is not up
+Network Interface vboxnet1
+pcap_open_live failed: vboxnet1: That device is not up
+
+ ncurses_gui_th = -1375131968
+
+ th_uptime thread = AE8936C0
+ Notification: Warning: interface wlan0 selected as the default one
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+ attack_launch: AE0926C0 Attack thread AD6916C0 is born!!
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+
+ ncurses_gui_th_exit start...
+
+ thread_destroy AE0926C0 destroying AD6916C0...
+ attack_th_exit -> attack_th.stop=1   attack_th.id=AD6916C0....
+ attack_th_exit: AD6916C0 finished
+ thread_destroy AE0926C0 after PTHREAD_JOIN AD6916C0...
+ ncurses_gui_th_exit finish...
+# yersinia v0.8.2 started in kali on Wed May 22 22:49:27 2024
+
+Network Interface wlan0
+
+ wlan0 iflinkname EN10MB
+ wlan0 iflinkdesc Ethernet
+ wlan0 MAC = 1413.338b.9c2b
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.877a.244c
+Network Interface br-a847f0ea33f9
+
+ br-a847f0ea33f9 iflinkname EN10MB
+ br-a847f0ea33f9 iflinkdesc Ethernet
+ br-a847f0ea33f9 MAC = 0242.5b5d.e706
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: Empty address ''
+Network Interface vboxnet0
+pcap_open_live failed: vboxnet0: That device is not up
+Network Interface vboxnet1
+pcap_open_live failed: vboxnet1: That device is not up
+
+ th_uptime thread = 40B9D6C0
+
+ ncurses_gui_th = 1077528256
+ Notification: Warning: interface wlan0 selected as the default one
+ Error: Bad data on field 'Domain'!!
+ attack_launch: 4039C6C0 Attack thread 3F99B6C0 is born!!
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+ attack_launch: 4039C6C0 Attack thread 3F19A6C0 is born!!
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+Error in dhcp_get_printable: len is 0 and type is 0
+yersinia: (1077528256) Error in wgetch -> (null)
+yersinia: (1077528256) Error in endwin -> (null)
+
+ ncurses_gui_th_exit start...
+ ncurses_gui_th_exit finish...
+ g00dbye function called from 4139F800
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(1094313664)...
+
+ thread_destroy 4139F800 destroying 4139E6C0...
+ thread_destroy 4139F800 after PTHREAD_JOIN 4139E6C0...
+yersinia: (1067038400) libnet_write error -> 
+ attack_th_exit -> attack_th.stop=0   attack_th.id=3F99B6C0....
+ attack_th_exit: 3F99B6C0 finished
